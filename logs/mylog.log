@@ -1,0 +1,98 @@
+[INFO ] 2023-08-06 20:41:02.279 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-06 20:41:07.703 [main] SeleniumFramework - Verify login : Failed
+[INFO ] 2023-08-06 20:49:09.151 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-06 20:49:17.156 [main] SeleniumFramework - Verify login : Failed
+[INFO ] 2023-08-06 21:02:25.352 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-06 21:02:31.843 [main] SeleniumFramework - Verify login : Failed
+[INFO ] 2023-08-06 21:06:11.398 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-06 21:06:24.571 [main] SeleniumFramework - Verify Login : Passed
+[INFO ] 2023-08-06 21:09:11.854 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 09:59:10.679 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 10:05:30.376 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 10:09:48.195 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 10:13:50.959 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 10:16:32.778 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 10:18:48.636 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 10:25:00.238 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 10:35:15.809 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 10:35:26.037 [main] SeleniumFramework - Verify login : Failed
+[INFO ] 2023-08-07 10:50:14.289 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 10:52:48.053 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 10:58:19.882 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 11:00:43.073 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 11:03:19.061 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 11:06:42.264 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 11:08:40.670 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 11:20:57.176 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 11:21:09.139 [main] SeleniumFramework - Verify Login : Passed
+[INFO ] 2023-08-07 11:22:34.443 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 11:22:49.568 [main] SeleniumFramework - Verify Login : Passed
+[INFO ] 2023-08-07 11:34:05.937 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 18:00:37.995 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 18:00:44.188 [main] SeleniumFramework - Verify Searched product : Passed
+[INFO ] 2023-08-07 19:57:31.893 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 20:03:06.022 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 20:06:14.365 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 20:08:57.292 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 20:12:48.161 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 20:14:23.582 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 20:16:53.643 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 21:37:11.618 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 21:40:25.509 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 21:45:59.598 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 21:50:59.937 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 21:55:19.285 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 21:56:47.894 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 21:58:51.554 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 22:00:19.522 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 22:02:07.337 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 22:03:42.696 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 22:05:05.102 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 22:07:42.567 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 22:09:32.418 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 22:11:32.880 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 22:13:07.732 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 22:14:58.682 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 22:17:03.790 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 22:18:10.955 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 22:20:51.616 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 22:22:40.469 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 22:25:53.227 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 22:26:22.797 [main] SeleniumFramework - Verify Searched product : Failed
+[INFO ] 2023-08-07 22:27:19.091 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 22:27:53.882 [main] SeleniumFramework - Verify Searched product : Failed
+[INFO ] 2023-08-07 22:30:19.454 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 22:30:50.999 [main] SeleniumFramework - Verify Searched product : Failed
+[INFO ] 2023-08-07 22:31:45.690 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 22:32:23.897 [main] SeleniumFramework - Verify Searched product : Failed
+[INFO ] 2023-08-07 22:34:53.383 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 22:35:28.665 [main] SeleniumFramework - Verify Searched product : Failed
+[INFO ] 2023-08-07 22:40:20.801 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 22:41:12.772 [main] SeleniumFramework - Verify Searched product : Failed
+[INFO ] 2023-08-07 22:43:05.874 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 22:47:11.951 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 22:48:42.123 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-07 22:49:15.101 [main] SeleniumFramework - Verify Searched product : Failed
+[INFO ] 2023-08-08 08:44:03.301 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-08 08:46:05.869 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-08 08:46:40.741 [main] SeleniumFramework - Verify Searched product : Failed
+[INFO ] 2023-08-08 08:48:44.184 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-08 08:49:16.506 [main] SeleniumFramework - Verify Searched product : Failed
+[INFO ] 2023-08-08 08:50:38.030 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-08 08:51:13.734 [main] SeleniumFramework - Verify Searched product : Failed
+[INFO ] 2023-08-08 08:52:58.570 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-08 08:53:31.715 [main] SeleniumFramework - Verify Searched product : Failed
+[INFO ] 2023-08-08 08:54:23.396 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-08 08:54:55.756 [main] SeleniumFramework - Verify Searched product : Passed
+[INFO ] 2023-08-08 08:55:33.150 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-08 08:56:01.883 [main] SeleniumFramework - Verify Searched product : Failed
+[INFO ] 2023-08-08 09:04:11.294 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-08 09:04:40.045 [main] SeleniumFramework - Verify Searched product : Failed
+[INFO ] 2023-08-08 09:07:12.855 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-08 09:07:42.206 [main] SeleniumFramework - Verify Searched product : Failed
+[INFO ] 2023-08-08 09:08:56.568 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-08 09:12:05.795 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-08 09:12:42.795 [main] SeleniumFramework - Verify Searched product : Failed
+[INFO ] 2023-08-08 09:18:01.242 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-08 10:13:47.172 [main] SeleniumFramework - url opened
+[INFO ] 2023-08-08 10:21:43.600 [main] SeleniumFramework - url opened
