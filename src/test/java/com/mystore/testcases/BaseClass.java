@@ -13,6 +13,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 
 import com.mystore.utilities.ReadConfig;
@@ -32,10 +33,8 @@ public class BaseClass<JavaScriptExecutor> {
 	@BeforeClass
 	public void setup() {
 		
-
-
-		switch(browser.toLowerCase()) {
-		
+	switch(browser.toLowerCase()) {
+			
 		case "chrome":
 			WebDriverManager.chromedriver().setup();
 			driver=new ChromeDriver();
@@ -70,13 +69,12 @@ public class BaseClass<JavaScriptExecutor> {
 //		driver.close();
 //		driver.quit();
 //	}
-	
+//	
 	public void captureScreenShot(WebDriver driver,String testName) throws IOException 
 	{
 		TakesScreenshot screenshot=((TakesScreenshot)driver);
 		File src=screenshot.getScreenshotAs(OutputType.FILE);
-		File dest=new File (".\\ScreenShots\\ScreenShots"+testName+".png");
-		src.renameTo(dest);
+		File dest=new File ("./ScreenShots/ScreenShots"+testName+".png");
 		FileUtils.copyFile(src, dest);		
 	}
 	

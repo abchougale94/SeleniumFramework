@@ -20,7 +20,7 @@ public class ReadConfig {
 		}
 		
 	}
-
+	
 	public String getBaseUrl() {
 		String value=properties.getProperty("baseUrl");
 		if(value!=null)

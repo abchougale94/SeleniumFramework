@@ -15,20 +15,22 @@ import com.aventstack.extentreports.markuputils.ExtentColor;
 import com.aventstack.extentreports.markuputils.MarkupHelper;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 import com.aventstack.extentreports.reporter.configuration.Theme;
+import com.mystore.testcases.BaseClass;
 
 public class ExtentListenerClass implements ITestListener {
+	
 	
 	ExtentSparkReporter htmlReporter;
 	ExtentReports reports;
 	ExtentTest test;
 	
-
 	public void configureReport()
 	{
+		
 		ReadConfig readConfig = new ReadConfig();
 		String timestamp = new SimpleDateFormat("yyyy.mm.dd.hh.mm.ss").format(new Date());
-		String reportName = "MyStoreTestReport-" + timestamp + ".html";
-		htmlReporter = new ExtentSparkReporter(System.getProperty("user.dir") + "//Reports//" + reportName);
+		String reportName = "MyStoreTestReport" + timestamp + ".html";
+		htmlReporter = new ExtentSparkReporter(System.getProperty("user.dir") + "\\Reports\\" + reportName);
 		reports = new ExtentReports();
 		reports.attachReporter(htmlReporter);
 		
@@ -42,7 +44,6 @@ public class ExtentListenerClass implements ITestListener {
 		htmlReporter.config().setDocumentTitle("Extent Listener Report Demo");
 		htmlReporter.config().setReportName("This is my First Report");
 		htmlReporter.config().setTheme(Theme.DARK);
-		
 		
 	}
 	
@@ -70,7 +71,6 @@ public class ExtentListenerClass implements ITestListener {
 			System.out.println("Name of test method failed:" + Result.getName() );  		
 			test = reports.createTest(Result.getName());//create entry in html report
 			test.log(Status.FAIL, MarkupHelper.createLabel("Name of the failed test case is: " + Result.getName() ,ExtentColor.RED));
-		
 		String screenShotPath = System.getProperty("user.dir") + "\\ScreenShots\\" + Result.getName() + ".png";
 		
 		File screenShotFile = new File(screenShotPath);

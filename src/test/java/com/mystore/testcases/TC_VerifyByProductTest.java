@@ -18,7 +18,7 @@ public class TC_VerifyByProductTest extends BaseClass {
 	
 	
 	@Test(enabled=true)
-	public void verifySearchResult() throws IOException, InterruptedException {
+	public void verifyByResult() throws IOException, InterruptedException {
 		
 		
 		homePage hp=new homePage(driver);

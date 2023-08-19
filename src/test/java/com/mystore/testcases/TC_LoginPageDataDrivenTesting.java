@@ -67,6 +67,7 @@ public class TC_LoginPageDataDrivenTesting extends BaseClass{
 			Logger.info("Verify login : Failed");
 			captureScreenShot(driver,"VerifyLogin");
 			Assert.assertTrue(false);
+			
 		}
 		
 		

@@ -6,7 +6,7 @@
 	</listeners>
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.mystore.testcases.TC_VerifyByProductTest"/>
+      <class name="com.mystore.testcases.TC_VerifyByProductTest"/>   
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
